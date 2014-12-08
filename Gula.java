@@ -12,7 +12,7 @@
  //velmi dobre ,velmi spravne..
 public class Gula extends AbstractUtvar {
     
-    //tu som zmenil teraz najneskor
+    //tu som zmenil teraz najneskor11
     
     private int x;
     private int y;
