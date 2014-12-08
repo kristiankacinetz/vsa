@@ -4,7 +4,7 @@
  * and open the template in the editor.
  */
 
-/**
+/**//velmi dobre skusakm znova
  *
  * @author Kristián Kačinetz
  */
