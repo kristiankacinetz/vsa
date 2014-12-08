@@ -10,6 +10,8 @@
  */
 public class Gula extends AbstractUtvar {
     
+    //tu som zmenil master
+    
     private int x;
     private int y;
     private int z;
