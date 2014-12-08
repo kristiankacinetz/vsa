@@ -8,6 +8,8 @@
  *
  * @author Kristián Kačinetz
  */
+ 
+ //velmi dobre ,velmi spravne..
 public class Gula extends AbstractUtvar {
     
     //tu som zmenil master
