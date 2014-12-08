@@ -21,7 +21,7 @@ public class Gula extends AbstractUtvar {
         this.polomer = polomer;
     }
 
-  //velmi dobre velmi spravne cislo 22
+  //masteeeeeeeer
  
     //teraz som tu zmenil master1
     @Override
