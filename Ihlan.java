@@ -9,6 +9,7 @@
  * @author Kristián Kačinetz
  */
 public class Ihlan extends AbstractUtvar{
+    //dsghgfdshgfjgdsjfgs
     
     private int rozmerStrany;
     private int vyska;
