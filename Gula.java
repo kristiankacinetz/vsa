@@ -23,7 +23,7 @@ public class Gula extends AbstractUtvar {
 
   
  
-    
+    //teraz som tu zmenil master1
     @Override
     public double getObjem() {
        return  (4.0/3.0)*Math.PI*polomer*polomer*polomer;
